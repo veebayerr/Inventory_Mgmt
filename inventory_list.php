@@ -28,7 +28,7 @@
 	$result = $conn->query($sql);	//complicated sql statement 
 	//gets the sum of items in the managers store by item name, and figures out if the manager is below the trigger point
 	
-	//builds the table and populates it
+	//builds the table
 	echo("
 			<div style='display: inline; float: left;'>
 			<table border ='1' style='border-collapse: collapse'>
